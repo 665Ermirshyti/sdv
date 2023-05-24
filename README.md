@@ -1,2 +1,2 @@
-# sdv
-page
+# Game Guide
+Index
